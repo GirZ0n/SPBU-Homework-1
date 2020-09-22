@@ -1,6 +1,15 @@
 # SPBU-Homework-1
 Here you can find conditions and solutions to problems for the first semester
 
+## Navigation menu
+* Semester №1 :arrow_left: **You are here**
+* [Semester №2](https://github.com/GirZ0n/SPBU-Homework-2)
+* [Semester №3](https://github.com/GirZ0n/SPBU-Homework-3)
+* Semester №4
+
+
+## Homework
+
 ### Homework №1
 1. Написать программу, считающую значение формулы `x^4 + x^3 + x^2 + x + 1` за два умножения. [[Solution]](https://github.com/GirZ0n/SPBU-Homework-1/blob/master/Homework_1/Task_1.c)
 
