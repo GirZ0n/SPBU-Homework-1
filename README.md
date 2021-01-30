@@ -5,7 +5,7 @@ Here you can find conditions and solutions to problems for the first semester
 * Semester №1 :arrow_left: **You are here**
 * [Semester №2](https://github.com/GirZ0n/SPBU-Homework-2)
 * [Semester №3](https://github.com/GirZ0n/SPBU-Homework-3)
-* Semester №4
+* [Semester №4](https://github.com/GirZ0n/SPBU-Homework-4)
 
 
 ## Homework
