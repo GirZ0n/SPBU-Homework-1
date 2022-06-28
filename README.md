@@ -1,5 +1,5 @@
 # SPBU-Homework-1
-Here you can find conditions and solutions to problems for the first semester
+Here you can find conditions and solutions to problems for the first semester.
 
 ## Navigation menu
 * Semester №1 :arrow_left: **You are here**
